@@ -12,7 +12,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HmJouL2sZT_HkhKYeidDpWmDo8BetfCA/view?usp=sharing](https://drive.google.com/file/d/1HmJouL2sZT_HkhKYeidDpWmDo8BetfCA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-[![Linkedin Badge](https://img.shields.io/badge/-mohamednasser-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/shehap-elhadary-682373251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)/)
 <p align="left">
 </p>
 
