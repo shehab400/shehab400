@@ -1,6 +1,6 @@
 <div align='center'>
   
-![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Shehab!&fontAlign=50&fontAlignY=50&color=gradient&fontColor=ffffff&animation=fadeIn&desc=Beautiful%20Rounded&descAlignY=75&descAlign=60&descSize=20&descColor=ffffff&radius=20)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Shehab!&fontAlign=50&fontAlignY=50&color=0:FF0000,100:000000&fontColor=ffffff&animation=fadeIn&desc=Beautiful%20Rounded&descAlignY=75&descAlign=60&descSize=20&descColor=ffffff&radius=50)
 
   </div>
 
