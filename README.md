@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehab400&label=Profile%20views&color=0e75b6&style=flat" alt="shehab400" /> </p>
 
 <h1 style="color: #FFA500;">🌐 Socials:</h1>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shehap.tarek.37) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shehap-elhadary-682373251) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shehap.tarek.37) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shehap-elhadary-682373251) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
